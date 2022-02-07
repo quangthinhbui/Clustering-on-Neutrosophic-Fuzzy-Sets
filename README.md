@@ -1,2 +1,2 @@
-# Clustering-on-NFS
-Python Package for Clustering on Neutrosophic Fuzzy Sets
+# Python Package for Clustering on Neutrosophic Fuzzy Sets
+Authors: Quang-Thinh Bui, My-Phuong Ngo, and Bay Vo
